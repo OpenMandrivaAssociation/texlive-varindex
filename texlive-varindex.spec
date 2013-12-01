@@ -1,12 +1,12 @@
-# revision 15878
+# revision 32262
 # category Package
 # catalog-ctan /macros/latex/contrib/varindex
-# catalog-date 2008-02-29 19:54:55 +0100
+# catalog-date 2013-11-27 07:34:41 +0100
 # catalog-license lppl
-# catalog-version 1.20
+# catalog-version 2.3
 Name:		texlive-varindex
-Version:	1.20
-Release:	2
+Version:	2.3
+Release:	1
 Summary:	Luxury frontend to the \index command
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/varindex
@@ -54,16 +54,3 @@ most other TeX formats.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.20-2
-+ Revision: 757390
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.20-1
-+ Revision: 719872
-- texlive-varindex
-- texlive-varindex
-- texlive-varindex
-
