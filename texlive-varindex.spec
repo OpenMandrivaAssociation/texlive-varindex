@@ -6,7 +6,7 @@
 # catalog-version 2.3
 Name:		texlive-varindex
 Version:	2.3
-Release:	1
+Release:	2
 Summary:	Luxury frontend to the \index command
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/varindex
