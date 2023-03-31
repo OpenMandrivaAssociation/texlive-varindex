@@ -1,6 +1,6 @@
 Name:		texlive-varindex
 Version:	32262
-Release:	1
+Release:	2
 Summary:	Luxury frontend to the \index command
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/varindex
