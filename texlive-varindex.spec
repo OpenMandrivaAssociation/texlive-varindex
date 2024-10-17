@@ -3,7 +3,7 @@ Version:	32262
 Release:	2
 Summary:	Luxury frontend to the \index command
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/varindex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/varindex
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/varindex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/varindex.doc.r%{version}.tar.xz
